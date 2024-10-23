@@ -1,0 +1,182 @@
+[
+    {
+        "titulo": "La La Land",
+        "director": "Damien Chazelle",
+        "genero": "Musical, Romance, Drama",
+        "año": 2016,
+        "descripcion": "Una aspirante a actriz y un músico de jazz se enamoran en Los Ángeles.",
+        "poster": "https://via.placeholder.com/150/FF0000/FFFFFF?text=La+La+Land",
+        "calificacion": 4.5
+    },
+    {
+        "titulo": "El Caballero Oscuro",
+        "director": "Christopher Nolan",
+        "genero": "Acción, Crimen, Drama",
+        "año": 2008,
+        "descripcion": "Batman se enfrenta al Joker.",
+        "poster": "https://via.placeholder.com/150/0000FF/FFFFFF?text=El+Caballero+Oscuro",
+        "calificacion": 4.8
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "genero": "Crimen, Drama",
+        "año": 1994,
+        "descripcion": "Historias de violencia y redención.",
+        "poster": "https://via.placeholder.com/150/FFFF00/000000?text=Pulp+Fiction",
+        "calificacion": 4.7
+    },
+    {
+        "titulo": "Interestelar",
+        "director": "Christopher Nolan",
+        "genero": "Ciencia Ficción, Aventura",
+        "año": 2014,
+        "descripcion": "Astronautas buscan un nuevo hogar para la humanidad.",
+        "poster": "https://via.placeholder.com/150/008000/FFFFFF?text=Interestelar",
+        "calificacion": 4.6
+    },
+    {
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "director": "Peter Jackson",
+        "genero": "Fantasía, Aventura",
+        "año": 2001,
+        "descripcion": "Frodo Bolsón y el Anillo Único.",
+        "poster": "https://via.placeholder.com/150/800080/FFFFFF?text=El+Señor+de+los+Anillos",
+        "calificacion": 4.9
+    },
+    {
+        "titulo": "Inception",
+        "director": "Christopher Nolan",
+        "genero": "Ciencia Ficción, Acción",
+        "año": 2010,
+        "descripcion": "Un ladrón que se infiltra en los sueños.",
+        "poster": "https://via.placeholder.com/150/00FFFF/000000?text=Inception",
+        "calificacion": 4.7
+    },
+    {
+        "titulo": "Matrix",
+        "director": "Las Wachowski",
+        "genero": "Ciencia Ficción, Acción",
+        "año": 1999,
+        "descripcion": "Un hacker descubre la verdad sobre la realidad.",
+        "poster": "https://via.placeholder.com/150/00FF00/000000?text=Matrix",
+        "calificacion": 4.8
+    },
+    {
+        "titulo": "El club de la pelea",
+        "director": "David Fincher",
+        "genero": "Drama",
+        "año": 1999,
+        "descripcion": "Un hombre insatisfecho forma un club de la pelea clandestino.",
+        "poster": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=El+club+de+la+pelea",
+        "calificacion": 4.7
+    },
+    {
+        "titulo": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "genero": "Drama, Romance",
+        "año": 1994,
+        "descripcion": "La vida de un hombre con un bajo coeficiente intelectual.",
+        "poster": "https://via.placeholder.com/150/FF8000/000000?text=Forrest+Gump",
+        "calificacion": 4.8
+    },
+    {
+        "titulo": "El Rey León",
+        "director": "Rob Minkoff, Roger Allers",
+        "genero": "Animación, Aventura, Drama",
+        "año": 1994,
+        "descripcion": "Un joven león debe reclamar su lugar como rey.",
+        "poster": "https://via.placeholder.com/150/FFA500/000000?text=El+Rey+León",
+        "calificacion": 4.9
+    },
+    {
+        "titulo": "Toy Story",
+        "director": "John Lasseter",
+        "genero": "Animación, Aventura, Comedia",
+        "año": 1995,
+        "descripcion": "Los juguetes de Andy cobran vida.",
+        "poster": "https://via.placeholder.com/150/FF4500/000000?text=Toy+Story",
+        "calificacion": 4.7
+    },
+    {
+        "titulo": "Titanic",
+        "director": "James Cameron",
+        "genero": "Romance, Drama",
+        "año": 1997,
+        "descripcion": "Una historia de amor a bordo del Titanic.",
+        "poster": "https://via.placeholder.com/150/000080/FFFFFF?text=Titanic",
+        "calificacion": 4.6
+    },
+    {
+        "titulo": "Avatar",
+        "director": "James Cameron",
+        "genero": "Ciencia Ficción, Acción",
+        "año": 2009,
+        "descripcion": "Un marine parapléjico se enamora de una Na'vi.",
+        "poster": "https://via.placeholder.com/150/008080/FFFFFF?text=Avatar",
+        "calificacion": 4.7
+    },
+    {
+        "titulo": "Los Vengadores",
+        "director": "Joss Whedon",
+        "genero": "Acción, Aventura, Ciencia Ficción",
+        "año": 2012,
+        "descripcion": "Superhéroes se unen para salvar el mundo.",
+        "poster": "https://via.placeholder.com/150/800000/FFFFFF?text=Los+Vengadores",
+        "calificacion": 4.8
+    },
+    {
+        "titulo": "El Padrino",
+        "director": "Francis Ford Coppola",
+        "genero": "Crimen, Drama",
+        "año": 1972,
+        "descripcion": "La historia de la familia Corleone.",
+        "poster": "https://via.placeholder.com/150/A52A2A/FFFFFF?text=El+Padrino",
+        "calificacion": 4.9
+    },
+    {
+        "titulo": "Regreso al futuro",
+        "director": "Robert Zemeckis",
+        "genero": "Ciencia Ficción, Aventura, Comedia",
+        "año": 1985,
+        "descripcion": "Un adolescente viaja al pasado en una máquina del tiempo.",
+        "poster": "https://via.placeholder.com/150/808000/FFFFFF?text=Regreso+al+futuro",
+        "calificacion": 4.8
+    },
+    {
+        "titulo": "Gladiador",
+        "director": "Ridley Scott",
+        "genero": "Acción, Aventura, Drama",
+        "año": 2000,
+        "descripcion": "Un general romano se convierte en gladiador.",
+        "poster": "https://via.placeholder.com/150/D2B48C/000000?text=Gladiador",
+        "calificacion": 4.7
+    },
+    {
+        "titulo": "El silencio de los corderos",
+        "director": "Jonathan Demme",
+        "genero": "Crimen, Thriller",
+        "año": 1991,
+        "descripcion": "Una agente del FBI busca la ayuda de un asesino en serie.",
+        "poster": "https://via.placeholder.com/150/556B2F/FFFFFF?text=El+silencio+de+los+corderos",
+        "calificacion": 4.6
+    },
+    {
+        "titulo": "Cadena perpetua",
+        "director": "Frank Darabont",
+        "genero": "Drama",
+        "año": 1994,
+        "descripcion": "Un hombre es encarcelado por el asesinato de su esposa.",
+        "poster": "https://via.placeholder.com/150/4682B4/FFFFFF?text=Cadena+perpetua",
+        "calificacion": 4.8
+    },
+    {
+        "titulo": "La lista de Schindler",
+        "director": "Steven Spielberg",
+        "genero": "Drama, Historia",
+        "año": 1993,
+        "descripcion": "Un empresario alemán salva a judíos polacos durante el Holocausto.",
+        "poster": "https://via.placeholder.com/150/A0522D/FFFFFF?text=La+lista+de+Schindler",
+        "calificacion": 4.9
+    }
+]
